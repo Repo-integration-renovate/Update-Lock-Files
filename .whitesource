@@ -1,0 +1,9 @@
+{
+  "settingsInheritedFrom": "Repo-integration-renovate/whitesource-config@main",
+  "remediateSettings": {
+    "lockFileMaintenance": {
+      "enabled": true,
+      "schedule": ["at any time"]
+    }
+  }
+}
