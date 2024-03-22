@@ -1,0 +1,23 @@
+{
+  "name": "RenovateCorp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+      "async": "2.0.0-rc.4",
+      "body-parser": "1.15.1",
+      "express": "4.13.4",
+      "express-session": "1.13.0",
+      "grunt": "1.0.1",
+      "grunt-cli": "1.2.0",
+      "underscore": "1.8.3",
+      "event-source-polyfill": "1.0.26",
+      "faker": "5.5.3"
+  }
+}
